@@ -1,0 +1,2 @@
+scenario_name,sources,number_of_sources,source_degrees,source_weighted_degrees,one_hop_frontier_size,two_hop_candidate_count,probability_no_one_hop_propagation_yet,probability_at_least_one_one_hop_neighbour_already_exposed,expected_directly_exposed_neighbours,top_priority_editor,top_priority_score
+single_source,Pasleim,1,{'Pasleim': 226},{'Pasleim': 642.0},226,501,1.9362746373840963e-09,0.9999999980637254,16.71004322729945,Jura1,1.0

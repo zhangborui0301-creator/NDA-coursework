@@ -1,0 +1,5 @@
+strategy,seed_node,route_found,route_type,base_loop_length_m,repetitions,total_route_length_m,difference_from_target_m
+initial,3381506667,True,single_loop_repeated,43.75162914530274,960,42001.56397949063,1.5639794906310271
+initial,9791529,True,single_loop_repeated,16.058575810287657,2615,41993.175743902226,6.824256097774196
+initial,340480304,True,single_loop_repeated,23.568221837335308,1782,41998.57131413152,1.4286858684790786
+initial,52162219,True,single_loop_repeated,424.1462236337722,99,41990.47613974345,9.523860256551416

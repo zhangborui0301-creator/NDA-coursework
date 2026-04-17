@@ -1,0 +1,2 @@
+nodes,edges,density,average_degree,median_degree,max_degree,average_clustering,transitivity,assortativity,connected_components,isolated_nodes,largest_component_size,average_shortest_path_length_LCC,diameter_LCC,path_metric_method
+1620,6782,0.005171611801218555,8.37283950617284,3.0,329,0.5041946321408047,0.16228845591104174,-0.14683666980660542,202,186,1397,3.150434927074595,8,exact

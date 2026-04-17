@@ -1,0 +1,2 @@
+scenario_name,sources,number_of_sources,source_degrees,source_weighted_degrees,one_hop_frontier_size,two_hop_candidate_count,probability_no_one_hop_propagation_yet,probability_at_least_one_one_hop_neighbour_already_exposed,expected_directly_exposed_neighbours,top_priority_editor,top_priority_score
+dual_source,"Jura1, Infovarius",2,"{'Jura1': 329, 'Infovarius': 182}","{'Jura1': 838.0, 'Infovarius': 400.0}",402,1277,1.2892019429510855e-30,1.0,54.838306955687464,TomT0m,1.047000128835022

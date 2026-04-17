@@ -1,0 +1,3 @@
+selection_rule,username,degree,looks_like_bot,notes
+single_source,Cycn,1208,False,Highest-degree non-bot editor if available; otherwise highest-degree editor overall.
+dual_source_partner,Pütz M.,69,False,"Strongest non-bot neighbour of the single-source editor by edge weight, then degree; fallback to next highest-degree editor."

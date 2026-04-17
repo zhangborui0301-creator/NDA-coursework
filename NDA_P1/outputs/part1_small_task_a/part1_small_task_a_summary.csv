@@ -1,0 +1,2 @@
+rows_raw,rows_after_cleaning,rows_removed_during_cleaning,unique_pages,unique_threads,unique_discussions,nodes,edges,connected_components,isolated_nodes,largest_component_size,average_degree,density,groups_with_single_editor,groups_with_2plus_editors,largest_group_size,average_group_size
+2985,2981,4,108,1113,1126,552,2424,29,25,519,8.782608695652174,0.015939398721691787,228,898,18,2.6474245115452932
